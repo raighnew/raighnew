@@ -4,7 +4,10 @@
 
 I'm Raighne, backend developer.
 
-Find me on [mastodon](https://mastodon.social/@raighne)
+Find me on:
+
+[mastodon](https://mastodon.social/@raighne)
+
 [Blog](https://www.raighne.xyz)
 
 
