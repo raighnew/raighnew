@@ -4,11 +4,11 @@
 
 I'm Raighne, backend developer.
 
-Find me on:
+Find me more on:
 
-[mastodon](https://mastodon.social/@raighne)
+#### [mastodon](https://mastodon.social/@raighne)
 
-[Blog](https://www.raighne.xyz)
+#### [Blog](https://www.raighne.xyz)
 
 
 <!--
